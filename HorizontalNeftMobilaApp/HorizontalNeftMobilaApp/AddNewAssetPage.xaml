@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="HorizontalNeftMobilaApp.AddNewAssetPage">
+    <ContentPage.Content>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Entry Grid.Row="0" Placeholder="Asset Name" Margin="10" FontSize="14" TextColor="Black" x:Name="EntryAssetName" VerticalOptions="Center"/>
+            <StackLayout Orientation="Horizontal" Grid.Row="1" VerticalOptions="Center">
+                <Picker x:Name="ComboboxDepartment" Margin="10" VerticalOptions="Center" TextColor="Black" Title="Department"/>
+                <Picker x:Name="ComboboxLocation" Margin="10" VerticalOptions="Center" TextColor="Black" Title="Location"/>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal" Grid.Row="2" VerticalOptions="Center">
+                <Picker x:Name="ComboboxAssetGroup" Margin="10" VerticalOptions="Center" TextColor="Black" Title="Asset Group"/>
+                <Picker x:Name="ComboboxAccountableParty" Margin="10" VerticalOptions="Center" TextColor="Black" Title="Accountable Party"/>
+            </StackLayout>
+            <Editor Grid.Row="3" Margin="10" Placeholder="Asset Description, Multi Line" HeightRequest="80" x:Name="EditorAssetDescription"/>
+            <StackLayout Orientation="Horizontal" VerticalOptions="Center" Grid.Row="4">
+                <DatePicker x:Name="DatePickerExpiredWarrantly" WidthRequest="120" HeightRequest="40" Margin="10"/>
+                <Label Text="Asset SN:" Margin="10"/>
+                <Label FontSize="18" Text="dd/gg/nnnn" TextColor="Black" FontAttributes="Bold" Margin="10"/>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal" HorizontalOptions="End" Margin="10" Grid.Row="5">
+                <Button WidthRequest="140" Text="Capture Image" Margin="10" x:Name="BtnCaptureImage" HeightRequest="55" Clicked="BtnCaptureImage_Clicked"/>
+                <Button WidthRequest="140" Text="Browse" Margin="10" x:Name="BtnBrowse" HeightRequest="55" Clicked="BtnBrowse_Clicked"/>
+            </StackLayout>
+            <ListView Grid.Row="6" x:Name="ImagesListView">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid Padding="10">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="60"/>
+                                    <ColumnDefinition/>
+                                </Grid.ColumnDefinitions>
+                                <Image WidthRequest="50" HeightRequest="50" Source="{Binding ImageSource}" Margin="10"/>
+                                <Label Text="{Binding ImageDescription}" VerticalOptions="Center" Margin="10" FontSize="15"/>
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            <StackLayout Orientation="Horizontal" HorizontalOptions="End" Margin="10" Grid.Row="7">
+                <Button WidthRequest="140" Text="Submit" BackgroundColor="Transparent" TextColor="Blue" Margin="10" x:Name="BtnSubmit" HeightRequest="55" Clicked="BtnSubmit_Clicked"/>
+                <Button WidthRequest="140" Text="CANCEL" BackgroundColor="Transparent" TextColor="Blue" Margin="10" x:Name="BtnCancel" HeightRequest="55" Clicked="BtnCancel_Clicked"/>
+            </StackLayout>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

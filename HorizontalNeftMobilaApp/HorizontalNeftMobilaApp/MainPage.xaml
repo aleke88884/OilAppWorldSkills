@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="HorizontalNeftMobilaApp.MainPage">
+    <StackLayout>
+        <StackLayout x:Name="VerticalLayout">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <StackLayout Grid.Row="0" Orientation="Horizontal" Padding="10">
+                    <Picker x:Name="ComboboxDepartment" WidthRequest="100" HeightRequest="60" FontSize="16" Margin="5" SelectedIndexChanged="ComboboxDepartment_SelectedIndexChanged"/>
+                    <Picker x:Name="ComboboxAssetGroup" WidthRequest="100" HeightRequest="60" FontSize="16" Margin="5" SelectedIndexChanged="ComboboxAssetGroup_SelectedIndexChanged"/>
+                </StackLayout>
+                <Label Grid.Row="1" FontSize="18" Text="Warranty date range:" Margin="10" />
+                <StackLayout Grid.Row="2" Orientation="Horizontal" VerticalOptions="Center" Padding="10">
+                    <DatePicker x:Name="DatePickerFrom" WidthRequest="150" HeightRequest="60" FontSize="16" Margin="5" DateSelected="DatePickerFrom_DateSelected"/>
+                    <DatePicker x:Name="DatePickerTo" WidthRequest="150" HeightRequest="60" FontSize="16" Margin="5" DateSelected="DatePickerTo_DateSelected"/>
+                </StackLayout>
+                <SearchBar x:Name="SearchBar" Grid.Row="3" Margin="10" VerticalOptions="Center" TextChanged="SearchBar_TextChanged"/>
+                <Label Grid.Row="4" Text="Asset list" HorizontalOptions="Start" Margin="10"/>
+                <ListView Grid.Row="5" x:Name="ListViewAssets" Margin="10" HasUnevenRows="True" SizeChanged="ListViewAssets_SizeChanged">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+                                <Grid Padding="5">
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="60"/>
+                                        <ColumnDefinition Width="2*"/>
+                                        <ColumnDefinition Width="Auto"/>
+                                        <ColumnDefinition Width="Auto"/>
+                                        <ColumnDefinition Width="Auto"/>
+                                    </Grid.ColumnDefinitions>
+                                    <Image WidthRequest="50" HeightRequest="50" Source="KNRuBlack.png" Grid.Column="0" />
+                                    <StackLayout Grid.Column="1" Orientation="Vertical">
+                                        <Label Text="{Binding AssetName}" FontSize="15"/>
+                                        <Label Text="{Binding DepartmentLocation.Location.Name}" FontSize="15"/>
+                                        <Label Text="{Binding AssetSn}" FontSize="15"/>
+                                    </StackLayout>
+                                    <Image Grid.Column="2" Source="KNRuColors.png" WidthRequest="30" HeightRequest="30" Margin="5"/>
+                                    <Image Grid.Column="3" Source="KNEnColors.png" WidthRequest="30" HeightRequest="30" Margin="5"/>
+                                    <Image Grid.Column="4" Source="KNEnBlack.png" WidthRequest="30" HeightRequest="30" Margin="5"/>
+                                </Grid>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+                <Label Grid.Row="6" Text="3 assets from 35" HorizontalOptions="Center" Margin="10" x:Name="ItemAmount"/>
+                <Button x:Name="BtnAddNewAsset" Grid.Row="7"
+             Text="+"
+             FontSize="Large"
+             CornerRadius="50"
+             HeightRequest="60"
+             WidthRequest="60"
+             HorizontalOptions="End"
+             VerticalOptions="End"
+             Margin="20"
+             BackgroundColor="LightBlue"
+             TextColor="White"
+             Clicked="BtnAddNewAsset_Clicked"/>
+            </Grid>
+        </StackLayout>
+
+        <StackLayout x:Name="HorizontalLayout" IsVisible="False">
+            <Label Text="Your assets:" FontSize="Large" Margin="10"/>
+            <ListView x:Name="ListViewAssetsHorizontal" HasUnevenRows="True">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid Padding="5" ColumnDefinitions="*,Auto">
+                                <Label Grid.Column="0" Text="{Binding AssetName}" FontSize="15"/>
+                                <Label Grid.Column="1" Text="{Binding AssetSn}" FontSize="15" TextColor="Red"/>
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            <Label x:Name="ItemAmountHorizontal" Text="3 assets from 35" HorizontalOptions="Center" Margin="10"/>
+            <Button x:Name="BtnAddNewAssetHorizontal"
+         Text="+"
+         FontSize="Large"
+         CornerRadius="50"
+         HeightRequest="60"
+         WidthRequest="60"
+         HorizontalOptions="End"
+         VerticalOptions="End"
+         Margin="20"
+         BackgroundColor="LightBlue"
+         TextColor="White"
+         Clicked="BtnAddNewAsset_Clicked"/>
+        </StackLayout>
+    </StackLayout>
+   
+
+</ContentPage>

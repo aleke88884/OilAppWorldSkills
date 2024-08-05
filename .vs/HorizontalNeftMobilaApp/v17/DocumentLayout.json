@@ -1,0 +1,271 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DAYINDIK APPLICATION\\HorizontalNeftMobilaApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{487E7F16-810D-42F8-A4AF-DD6401E5A0CA}|HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp.csproj|d:\\dayindik application\\horizontalneftmobilaapp\\horizontalneftmobilaapp\\horizontalneftmobilaapp\\addnewassetpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{487E7F16-810D-42F8-A4AF-DD6401E5A0CA}|HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp.csproj|solutionrelative:horizontalneftmobilaapp\\horizontalneftmobilaapp\\addnewassetpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{487E7F16-810D-42F8-A4AF-DD6401E5A0CA}|HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp.csproj|d:\\dayindik application\\horizontalneftmobilaapp\\horizontalneftmobilaapp\\horizontalneftmobilaapp\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{487E7F16-810D-42F8-A4AF-DD6401E5A0CA}|HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp.csproj|solutionrelative:horizontalneftmobilaapp\\horizontalneftmobilaapp\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{487E7F16-810D-42F8-A4AF-DD6401E5A0CA}|HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp.csproj|d:\\dayindik application\\horizontalneftmobilaapp\\horizontalneftmobilaapp\\horizontalneftmobilaapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{487E7F16-810D-42F8-A4AF-DD6401E5A0CA}|HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp.csproj|solutionrelative:horizontalneftmobilaapp\\horizontalneftmobilaapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{487E7F16-810D-42F8-A4AF-DD6401E5A0CA}|HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp.csproj|d:\\dayindik application\\horizontalneftmobilaapp\\horizontalneftmobilaapp\\horizontalneftmobilaapp\\departmentlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{487E7F16-810D-42F8-A4AF-DD6401E5A0CA}|HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp.csproj|solutionrelative:horizontalneftmobilaapp\\horizontalneftmobilaapp\\departmentlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{487E7F16-810D-42F8-A4AF-DD6401E5A0CA}|HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp.csproj|d:\\dayindik application\\horizontalneftmobilaapp\\horizontalneftmobilaapp\\horizontalneftmobilaapp\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{487E7F16-810D-42F8-A4AF-DD6401E5A0CA}|HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp.csproj|solutionrelative:horizontalneftmobilaapp\\horizontalneftmobilaapp\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{487E7F16-810D-42F8-A4AF-DD6401E5A0CA}|HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp.csproj|d:\\dayindik application\\horizontalneftmobilaapp\\horizontalneftmobilaapp\\horizontalneftmobilaapp\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{487E7F16-810D-42F8-A4AF-DD6401E5A0CA}|HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp.csproj|solutionrelative:horizontalneftmobilaapp\\horizontalneftmobilaapp\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{487E7F16-810D-42F8-A4AF-DD6401E5A0CA}|HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp.csproj|d:\\dayindik application\\horizontalneftmobilaapp\\horizontalneftmobilaapp\\horizontalneftmobilaapp\\asset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{487E7F16-810D-42F8-A4AF-DD6401E5A0CA}|HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp.csproj|solutionrelative:horizontalneftmobilaapp\\horizontalneftmobilaapp\\asset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{487E7F16-810D-42F8-A4AF-DD6401E5A0CA}|HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp.csproj|d:\\dayindik application\\horizontalneftmobilaapp\\horizontalneftmobilaapp\\horizontalneftmobilaapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{487E7F16-810D-42F8-A4AF-DD6401E5A0CA}|HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp.csproj|solutionrelative:horizontalneftmobilaapp\\horizontalneftmobilaapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{487E7F16-810D-42F8-A4AF-DD6401E5A0CA}|HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp.csproj|d:\\dayindik application\\horizontalneftmobilaapp\\horizontalneftmobilaapp\\horizontalneftmobilaapp\\assetgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{487E7F16-810D-42F8-A4AF-DD6401E5A0CA}|HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp.csproj|solutionrelative:horizontalneftmobilaapp\\horizontalneftmobilaapp\\assetgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7DF699-4642-4B1C-8C8C-C67E43D96504}|HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp.Android\\HorizontalNeftMobilaApp.Android.csproj|D:\\DAYINDIK APPLICATION\\HorizontalNeftMobilaApp\\horizontalneftmobilaapp\\horizontalneftmobilaapp.android\\properties\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EE7DF699-4642-4B1C-8C8C-C67E43D96504}|HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp.Android\\HorizontalNeftMobilaApp.Android.csproj|solutionrelative:horizontalneftmobilaapp\\horizontalneftmobilaapp.android\\properties\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7DF699-4642-4B1C-8C8C-C67E43D96504}|HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp.Android\\HorizontalNeftMobilaApp.Android.csproj|D:\\DAYINDIK APPLICATION\\HorizontalNeftMobilaApp\\horizontalneftmobilaapp\\horizontalneftmobilaapp.android\\resources\\xml\\network.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EE7DF699-4642-4B1C-8C8C-C67E43D96504}|HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp.Android\\HorizontalNeftMobilaApp.Android.csproj|solutionrelative:horizontalneftmobilaapp\\horizontalneftmobilaapp.android\\resources\\xml\\network.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{487E7F16-810D-42F8-A4AF-DD6401E5A0CA}|HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp.csproj|d:\\dayindik application\\horizontalneftmobilaapp\\horizontalneftmobilaapp\\horizontalneftmobilaapp\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{487E7F16-810D-42F8-A4AF-DD6401E5A0CA}|HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp.csproj|solutionrelative:horizontalneftmobilaapp\\horizontalneftmobilaapp\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{487E7F16-810D-42F8-A4AF-DD6401E5A0CA}|HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp.csproj|d:\\dayindik application\\horizontalneftmobilaapp\\horizontalneftmobilaapp\\horizontalneftmobilaapp\\serviceshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{487E7F16-810D-42F8-A4AF-DD6401E5A0CA}|HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp.csproj|solutionrelative:horizontalneftmobilaapp\\horizontalneftmobilaapp\\serviceshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{487E7F16-810D-42F8-A4AF-DD6401E5A0CA}|HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp.csproj|d:\\dayindik application\\horizontalneftmobilaapp\\horizontalneftmobilaapp\\horizontalneftmobilaapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{487E7F16-810D-42F8-A4AF-DD6401E5A0CA}|HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp.csproj|solutionrelative:horizontalneftmobilaapp\\horizontalneftmobilaapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{487E7F16-810D-42F8-A4AF-DD6401E5A0CA}|HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp.csproj|d:\\dayindik application\\horizontalneftmobilaapp\\horizontalneftmobilaapp\\horizontalneftmobilaapp\\addnewassetpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{487E7F16-810D-42F8-A4AF-DD6401E5A0CA}|HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp.csproj|solutionrelative:horizontalneftmobilaapp\\horizontalneftmobilaapp\\addnewassetpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddNewAssetPage.xaml.cs",
+              "DocumentMoniker": "D:\\DAYINDIK APPLICATION\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\AddNewAssetPage.xaml.cs",
+              "RelativeDocumentMoniker": "HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\AddNewAssetPage.xaml.cs",
+              "ToolTip": "D:\\DAYINDIK APPLICATION\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\AddNewAssetPage.xaml.cs",
+              "RelativeToolTip": "HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\AddNewAssetPage.xaml.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T10:28:02.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddNewAssetPage.xaml",
+              "DocumentMoniker": "D:\\DAYINDIK APPLICATION\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\AddNewAssetPage.xaml",
+              "RelativeDocumentMoniker": "HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\AddNewAssetPage.xaml",
+              "ToolTip": "D:\\DAYINDIK APPLICATION\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\AddNewAssetPage.xaml",
+              "RelativeToolTip": "HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\AddNewAssetPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAACXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-05T10:14:11.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Location.cs",
+              "DocumentMoniker": "D:\\DAYINDIK APPLICATION\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\Location.cs",
+              "RelativeDocumentMoniker": "HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\Location.cs",
+              "ToolTip": "D:\\DAYINDIK APPLICATION\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\Location.cs",
+              "RelativeToolTip": "HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\Location.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T06:33:06.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\DAYINDIK APPLICATION\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\AssemblyInfo.cs",
+              "ToolTip": "D:\\DAYINDIK APPLICATION\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\AssemblyInfo.cs",
+              "RelativeToolTip": "HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T06:31:38.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "D:\\DAYINDIK APPLICATION\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp.Android\\Properties\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp.Android\\Properties\\AndroidManifest.xml",
+              "ToolTip": "D:\\DAYINDIK APPLICATION\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp.Android\\Properties\\AndroidManifest.xml",
+              "RelativeToolTip": "HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp.Android\\Properties\\AndroidManifest.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-08-05T05:47:40.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "network.xml",
+              "DocumentMoniker": "D:\\DAYINDIK APPLICATION\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp.Android\\Resources\\xml\\network.xml",
+              "RelativeDocumentMoniker": "HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp.Android\\Resources\\xml\\network.xml",
+              "ToolTip": "D:\\DAYINDIK APPLICATION\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp.Android\\Resources\\xml\\network.xml",
+              "RelativeToolTip": "HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp.Android\\Resources\\xml\\network.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-08-05T05:45:51.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\DAYINDIK APPLICATION\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\Employee.cs",
+              "RelativeDocumentMoniker": "HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\Employee.cs",
+              "ToolTip": "D:\\DAYINDIK APPLICATION\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\Employee.cs",
+              "RelativeToolTip": "HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T05:36:07.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\DAYINDIK APPLICATION\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\Department.cs",
+              "RelativeDocumentMoniker": "HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\Department.cs",
+              "ToolTip": "D:\\DAYINDIK APPLICATION\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\Department.cs",
+              "RelativeToolTip": "HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T05:35:06.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepartmentLocation.cs",
+              "DocumentMoniker": "D:\\DAYINDIK APPLICATION\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\DepartmentLocation.cs",
+              "RelativeDocumentMoniker": "HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\DepartmentLocation.cs",
+              "ToolTip": "D:\\DAYINDIK APPLICATION\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\DepartmentLocation.cs",
+              "RelativeToolTip": "HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\DepartmentLocation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T05:34:36.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AssetGroup.cs",
+              "DocumentMoniker": "D:\\DAYINDIK APPLICATION\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\AssetGroup.cs",
+              "RelativeDocumentMoniker": "HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\AssetGroup.cs",
+              "ToolTip": "D:\\DAYINDIK APPLICATION\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\AssetGroup.cs",
+              "RelativeToolTip": "HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\AssetGroup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T05:33:52.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Asset.cs",
+              "DocumentMoniker": "D:\\DAYINDIK APPLICATION\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\Asset.cs",
+              "RelativeDocumentMoniker": "HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\Asset.cs",
+              "ToolTip": "D:\\DAYINDIK APPLICATION\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\Asset.cs",
+              "RelativeToolTip": "HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\Asset.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAewBEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T05:31:36.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ServicesHelper.cs",
+              "DocumentMoniker": "D:\\DAYINDIK APPLICATION\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\ServicesHelper.cs",
+              "RelativeDocumentMoniker": "HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\ServicesHelper.cs",
+              "ToolTip": "D:\\DAYINDIK APPLICATION\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\ServicesHelper.cs",
+              "RelativeToolTip": "HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\ServicesHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T05:31:17.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\DAYINDIK APPLICATION\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\App.xaml.cs",
+              "ToolTip": "D:\\DAYINDIK APPLICATION\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\App.xaml.cs",
+              "RelativeToolTip": "HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T05:30:56.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\DAYINDIK APPLICATION\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\MainPage.xaml.cs",
+              "ToolTip": "D:\\DAYINDIK APPLICATION\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\MainPage.xaml.cs",
+              "RelativeToolTip": "HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\MainPage.xaml.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAAwIgAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T05:27:06.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\DAYINDIK APPLICATION\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\MainPage.xaml",
+              "RelativeDocumentMoniker": "HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\MainPage.xaml",
+              "ToolTip": "D:\\DAYINDIK APPLICATION\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\MainPage.xaml",
+              "RelativeToolTip": "HorizontalNeftMobilaApp\\HorizontalNeftMobilaApp\\MainPage.xaml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAF8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-05T05:04:53.428Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
